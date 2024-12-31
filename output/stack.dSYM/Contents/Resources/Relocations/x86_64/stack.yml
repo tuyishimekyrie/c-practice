@@ -1,0 +1,11 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/itzoneltd/Documents/auca/datastructure/exercise/output/stack'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x100000E70, symSize: 0x60 }
+  - { offset: 0x3F, size: 0x8, addend: 0x0, symName: _top, symObjAddr: 0x100, symBinAddr: 0x100002000, symSize: 0x0 }
+  - { offset: 0x69, size: 0x8, addend: 0x0, symName: _stack_arr, symBinAddr: 0x100002010, symSize: 0x0 }
+  - { offset: 0x7E, size: 0x8, addend: 0x0, symName: _push, symObjAddr: 0x0, symBinAddr: 0x100000E70, symSize: 0x60 }
+  - { offset: 0xA2, size: 0x8, addend: 0x0, symName: _display, symObjAddr: 0x60, symBinAddr: 0x100000ED0, symSize: 0x60 }
+  - { offset: 0xD4, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xC0, symBinAddr: 0x100000F30, symSize: 0x3F }
+...

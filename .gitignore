@@ -1,0 +1,54 @@
+# Compiled object files
+*.o
+
+# Compiled libraries
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Compiled executables
+*.exe
+*.out
+
+# Build directories
+/build/
+/dist/
+/bin/
+/obj/
+
+# IDE and editor files
+.vscode/
+.idea/
+*.code-workspace
+*.layout
+*.depend
+
+# Temporary files
+*~
+*.bak
+*.swp
+*.swo
+
+# Core dumps
+core
+core.*
+
+# Logs
+*.log
+*.trace
+
+# Autotools
+/configure
+/config.log
+/config.status
+/autom4te.cache/
+/Makefile
+
+# CMake
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/*.cmake
+/Makefile

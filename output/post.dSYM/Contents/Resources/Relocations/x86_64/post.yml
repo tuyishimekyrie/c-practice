@@ -1,0 +1,10 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/itzoneltd/Documents/auca/datastructure/exercise/output/post'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000D90, symSize: 0xB0 }
+  - { offset: 0x8A, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100000D90, symSize: 0xB0 }
+  - { offset: 0xB2, size: 0x8, addend: 0x0, symName: _createNode, symObjAddr: 0xB0, symBinAddr: 0x100000E40, symSize: 0x70 }
+  - { offset: 0xE8, size: 0x8, addend: 0x0, symName: _postOrderTraversal, symObjAddr: 0x120, symBinAddr: 0x100000EB0, symSize: 0x50 }
+  - { offset: 0x10C, size: 0x8, addend: 0x0, symName: _freeTree, symObjAddr: 0x170, symBinAddr: 0x100000F00, symSize: 0x45 }
+...

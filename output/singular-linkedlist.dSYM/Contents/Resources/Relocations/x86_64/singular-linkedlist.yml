@@ -1,0 +1,10 @@
+---
+triple:          'x86_64-apple-darwin'
+binary-path:     '/Users/itzoneltd/Documents/auca/datastructure/exercise/output/singular-linkedlist'
+relocations:
+  - { offset: 0x26, size: 0x8, addend: 0x0, symName: _add_at_beginning, symObjAddr: 0x0, symBinAddr: 0x100000D60, symSize: 0x40 }
+  - { offset: 0x7E, size: 0x8, addend: 0x0, symName: _add_at_beginning, symObjAddr: 0x0, symBinAddr: 0x100000D60, symSize: 0x40 }
+  - { offset: 0xC2, size: 0x8, addend: 0x0, symName: _add_at_end, symObjAddr: 0x40, symBinAddr: 0x100000DA0, symSize: 0x90 }
+  - { offset: 0x114, size: 0x8, addend: 0x0, symName: _print_list, symObjAddr: 0xD0, symBinAddr: 0x100000E30, symSize: 0x60 }
+  - { offset: 0x146, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x130, symBinAddr: 0x100000E90, symSize: 0xFF }
+...
