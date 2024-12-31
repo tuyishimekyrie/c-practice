@@ -7,7 +7,7 @@ Welcome to the **C Practice Examples** repository! This project provides foundat
 ### Topics Covered:  
 1. 📌 **Variables**  
    Learn about declaring, initializing, and using variables in C.  
-   ![C Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg){width=2500px}  
+   ![C Logo](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg){width=250px}  
 
 2. 🧮 **Data Types**  
    Explore the various data types in C and how to use them.  
