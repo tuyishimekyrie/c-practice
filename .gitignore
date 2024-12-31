@@ -24,6 +24,8 @@
 *.code-workspace
 *.layout
 *.depend
+output/
+test.dSYM/
 
 # Temporary files
 *~
